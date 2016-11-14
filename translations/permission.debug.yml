@@ -13,3 +13,4 @@ messages:
 table-headers:
     permission-name: 'Permission name'
     permission-label: 'Permission Label'
+    permission-role: 'Role'
